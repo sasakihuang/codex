@@ -1,6 +1,6 @@
 # 03. 连接第三方中转 API
 
-第三方中转 API 是本仓库原来的重要入口，改造成教程站后也不要丢。它的定位是：帮助不想自备网络环境、不想处理海外支付、不想从零配置 API 的用户更快跑通。
+第三方中转 API 适合不想自备网络环境、不想处理海外支付、不想从零配置 API 的用户，帮助你更快跑通 Codex。
 
 ## 现有入口
 
@@ -8,7 +8,7 @@
 | --- | --- |
 | 国内站登录 | `https://api.yoyochatai.com` |
 | 充值/订阅相关入口 | `https://9.plus/shop/yoyoapi` |
-| cc-switch 下载 | `https://github.com/farion1231/cc-switch/releases/` |
+| yoyo-plugin 下载 | `https://github.com/sasakihuang/yoyo-plugin/releases/` |
 | 完整文档 | `https://github.com/sasakihuang/codex` |
 
 ## 它解决什么问题
@@ -20,11 +20,7 @@
 
 ## 它不是什么
 
-第三方中转不是 OpenAI 官方订阅。教程里要说清楚这一点，避免用户误解。
-
-推荐表达：
-
-> 国内站和中转 API 属于第三方接入方案，不是 OpenAI 官方订阅。它的价值是快速可用、低门槛和更省配置时间。
+国内站和中转 API 属于第三方接入方案，不是 OpenAI 官方订阅。它的价值是快速可用、低门槛和更省配置时间。
 
 ## 安全配置原则
 
@@ -43,3 +39,8 @@
 - API 配置在哪里？
 - 哪些信息不能发给 Codex？
 
+---
+
+## 下一步
+
+继续阅读 [04. 桌面 App 界面总览](04-app-tour.md)。

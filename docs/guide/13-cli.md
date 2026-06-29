@@ -49,3 +49,8 @@ python3 -m http.server 8765
 - 你能让它完成一个小改动。
 - 你能用 `git diff` 或 Codex 的变更视图检查结果。
 
+---
+
+## 下一步
+
+继续阅读 [14. 第一个可验证任务: README 变网页](14-first-task.md)。

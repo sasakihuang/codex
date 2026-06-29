@@ -15,10 +15,9 @@
 | [larksuite/cli](https://github.com/larksuite/cli/blob/main/README.zh.md) | 飞书官方 | 飞书官方开源 CLI，支持通过命令行操作飞书数据 | [06 Codex × 飞书 CLI](./feishu-cli-codex.md) |
 | [wshuyi/remotion-video-skill](https://github.com/wshuyi/remotion-video-skill) | 王老师（wshuyi） | 基于 Remotion 的视频生成 Skill，代码驱动制作视频 | [04 Codex × HyperFrames](./hyperframes-animation.md) |
 | [karpathy/llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) | Andrej Karpathy | LLM Wiki 理念原始设计文档，本站案例的核心参考 | [07 Codex × LLM Wiki](./llm-wiki-codex.md) |
-| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | Dailin521 | 社区工具，用于 Codex provider metadata 同步与历史会话可见性排障；最后核对日期：2026-05-29 | [配置文件 config.toml](../configuration/config-file.md#切换-provider-后历史会话不可见怎么办) |
-| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | BigPizzaV3 | 社区工具，用于 Codex 桌面 App 外部 launcher、中转注入和 provider 管理；最后核对日期：2026-05-29 | [连接第三方 API](../guide/05-third-party-api.md) |
-| [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | BenedictKing | 社区项目，提供 AI API 代理、协议转换、渠道编排和 Codex Responses 网关能力；最后核对日期：2026-05-29 | [连接第三方 API](../guide/05-third-party-api.md) |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | farion1231 | 社区工具，用于管理 Codex、Claude Code、Gemini CLI 等工具的供应商配置和一键切换；最后核对日期：2026-05-29 | [连接第三方 API](../guide/05-third-party-api.md) |
+| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | Dailin521 | 社区工具，用于 Codex provider metadata 同步与历史会话可见性排障；最后核对日期：2026-05-29 | [配置文件 config.toml](../reference/settings.md) |
+| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | BigPizzaV3 | 社区工具，用于 Codex 桌面 App 外部 launcher、中转注入和 provider 管理；最后核对日期：2026-05-29 | [连接第三方 API](../docs/guide/03-third-party-api.md) |
+| [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | BenedictKing | 社区项目，提供 AI API 代理、协议转换、渠道编排和 Codex Responses 网关能力；最后核对日期：2026-05-29 | [连接第三方 API](../docs/guide/03-third-party-api.md) |
 
 ---
 

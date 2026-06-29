@@ -54,3 +54,8 @@ codex
 - 不要把 token、cookie、API key 贴到聊天窗口。
 - 如果登录或访问不稳定，再看 [03-third-party-api.md](03-third-party-api.md)。
 
+---
+
+## 下一步
+
+继续阅读 [02. 订阅 ChatGPT Plus / Pro](02-subscribe.md)。

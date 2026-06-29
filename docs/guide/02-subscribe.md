@@ -44,3 +44,9 @@ https://9.plus/shop/yoyoapi
 官方订阅不是第三方中转。第三方中转的价值是降低访问、支付和配置门槛，适合想快速跑通的人。
 
 如果你要看中转 API，继续读：[03-third-party-api.md](03-third-party-api.md)。
+
+---
+
+## 下一步
+
+继续阅读 [03. 连接第三方中转 API](03-third-party-api.md)。
