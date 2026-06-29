@@ -17,7 +17,7 @@
 | 完整入门教程 | 第一次系统学习 Codex，从安装走到第一个任务 | [docs/index.md](docs/index.md) |
 | 27 章 Codex 实战图文教程 | 想按学习路径连续阅读 27 章图文教程 | [tutorials/yichen-codex-articles/README.md](tutorials/yichen-codex-articles/README.md) |
 | 完整教程浏览器版 | 想在浏览器里连续阅读整合后的教程 | [tutorials/yichen-codex-articles/index.html](tutorials/yichen-codex-articles/index.html) |
-| 全图片归档版 | 需要完整保留 85 张图片素材和原始顺序 | [tutorials/yichen-codex-articles/all-images.md](tutorials/yichen-codex-articles/all-images.md) |
+| 全图片汇总版 | 把全部图文素材集中在一页，方便整体浏览 | [tutorials/yichen-codex-articles/all-images.md](tutorials/yichen-codex-articles/all-images.md) |
 | 分篇 Markdown | 需要单篇引用、二次整理或发布迁移 | [tutorials/yichen-codex-articles/articles/](tutorials/yichen-codex-articles/articles/) |
 | 实战案例库 | 已经会基础操作，想套用具体工作流 | [recipes/index.md](recipes/index.md) |
 | 速查与安全 | 查命令、推荐设置、权限边界和 FAQ | [reference/commands.md](reference/commands.md) |

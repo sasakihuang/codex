@@ -1,8 +1,5 @@
 # Claude Fable5 vs Codex，坚持使用Codex理由
 
-- 分类：七、产品比较与日常使用
-- 类型：Chrome 全文爬取
-- 抓取时间：2026-06-28T09:20:23.888Z
 
 ## 正文
 
@@ -21,7 +18,6 @@ bovwxvDusw
 引用
 Claude
 @claudeai
-·
 6月10日
 Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.
 Its capabilities exceed those of any model we’ve ever made generally available.

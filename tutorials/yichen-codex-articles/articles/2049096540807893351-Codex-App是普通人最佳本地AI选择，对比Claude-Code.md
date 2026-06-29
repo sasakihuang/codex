@@ -1,8 +1,5 @@
 # Codex App是普通人最佳本地AI选择，对比Claude Code
 
-- 分类：二、Codex App 新手入门
-- 类型：Chrome 全文爬取
-- 抓取时间：2026-06-28T09:19:26.385Z
 
 ## 正文
 
@@ -15,8 +12,6 @@ Codex App+Chatgpt5.5绝对是当下最适合普通人的本地AI选择，Claude 
 6.Claude Code的skills可以完美移动到Codex，迁移工作也很丝滑。
 所以，我目前已经想不到任何继续使用Claude Code的理由了。。。
 引用
-逸尘
-·
 2月10日
 普通人想要把整个电脑用 AI 进行武装的最简无脑步骤：
 1.购买 chatgpt plus 会员，获得 codex 使用资格。
