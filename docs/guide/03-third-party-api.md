@@ -8,7 +8,7 @@
 | --- | --- |
 | 国内站登录 | `https://api.yoyochatai.com` |
 | 充值/订阅相关入口 | `https://9.plus/shop/yoyoapi` |
-| yoyo-plugin 下载 | `https://github.com/sasakihuang/yoyo-plugin/releases/` |
+| yoyo-plugin 下载 | `https://github.com/sasakihuang/yoyo-Plugin/releases/` |
 | 完整文档 | `https://github.com/sasakihuang/codex` |
 
 ## 它解决什么问题
