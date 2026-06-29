@@ -10,4 +10,4 @@ github.com/mcncarl/yichen
 -skills/tree/main/chatgpt-web-research
 …
 
-![图片 1](https://upload.maynor1024.live/file/1782647144316_media_HLUj_4ObQAAIqH4.jpg)
+![图片 1](../images/1782647144316_media_HLUj_4ObQAAIqH4.jpg)

@@ -13,7 +13,7 @@ https://
 ⓶Playwright
 打开新的浏览器， 模拟人类操作。有些Computer  Use操控不了的网页Playwright可以，比如电商后台、公众号后台等等。
 
-![图片 1](https://upload.maynor1024.live/file/1782647081018_media_HKhrvQsbsAAIBUW.jpg)
+![图片 1](../images/1782647081018_media_HKhrvQsbsAAIBUW.jpg)
 
 ⓷Gmail
 打通谷歌邮箱，可以给Codex设置一个定时化的邮箱日报；
@@ -31,7 +31,7 @@ Codex内置的四件套插件很垃圾，建议使用各种Skills替代，比如
 Chrome插件几乎没用，相信我，你想自动化操作的场景chrome插件只会报错，这时候优先用Computer Use代替，最后再使用Playwright。
 Build iOS app 、 Figma 、 Notion 、 product design 、 Supabase 这些插件在垂直领域用途也不错，大家可以按需安装。
 
-![图片 2](https://upload.maynor1024.live/file/1782647093431_media_HKhrwkTawAAR5IO.jpg)
+![图片 2](../images/1782647093431_media_HKhrwkTawAAR5IO.jpg)
 
 引用
 5月6日
