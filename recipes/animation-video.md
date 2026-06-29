@@ -52,3 +52,9 @@
 如果你对于 Remotion 制作视频的方式感兴趣，那么我推荐王老师在 GitHub 上分享的开源项目 Remotion的skill，你可以进行参考学习。
 
 地址：https://github.com/wshuyi/remotion-video-skill
+
+---
+
+## 下一步
+
+返回 [实战案例库](index.md) 选择下一个工作流。

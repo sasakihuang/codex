@@ -72,3 +72,9 @@ GitHub 地址：https://github.com/jgraph/drawio-mcp
   链接：[https://www.bilibili.com/video/BV1865K6gEhZ/](https://www.bilibili.com/video/BV1865K6gEhZ/)
 
 > 本文截图均为作者本人实际操作所得，文字内容在参考基础上进行了重新整理与二次创作。如有侵权，请联系删除。
+
+---
+
+## 下一步
+
+返回 [实战案例库](index.md) 选择下一个工作流。
