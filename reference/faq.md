@@ -21,10 +21,6 @@
 关键链接包括：
 
 - `https://api.yoyochatai.com`
-- `https://api.yoyochatai.com`
-- `https://9.plus/shop/yoyoapi`
-- `https://9.plus/shop/yoyoapi`
-- `https://9.plus/shop/yoyoapi`
 - `https://9.plus/shop/yoyoapi`
 
 ## Plan Mode 必须开吗？

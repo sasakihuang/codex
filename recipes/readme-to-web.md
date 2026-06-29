@@ -64,4 +64,4 @@
 
 ## 下一步
 
-做完后继续看 deploy-static-site.md，把页面发布到公网。
+做完后继续看 [deploy-static-site.md](deploy-static-site.md)，把页面发布到公网。

@@ -66,4 +66,4 @@
 
 ## 下一步
 
-网页定时抓取看 web-scrape.md。
+网页定时抓取看 [web-scrape.md](web-scrape.md)。

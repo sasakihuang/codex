@@ -66,4 +66,4 @@
 
 ## 下一步
 
-如果要做汇报页，接 ppt-skill.md。
+如果要做汇报页，接 [ppt-skill.md](ppt-skill.md)。

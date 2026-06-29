@@ -133,10 +133,6 @@ for f in index.html docs/index.html recipes/index.html reference/index.html read
 ```bash
 for s in \
   'https://api.yoyochatai.com' \
-  'https://api.yoyochatai.com' \
-  'https://9.plus/shop/yoyoapi' \
-  'https://9.plus/shop/yoyoapi' \
-  'https://9.plus/shop/yoyoapi' \
   'https://9.plus/shop/yoyoapi'; do
   git grep -F "$s" -- README.md index.html docs recipes reference >/dev/null && echo "FOUND $s" || echo "MISSING $s"
 done

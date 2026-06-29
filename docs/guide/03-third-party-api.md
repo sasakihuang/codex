@@ -7,10 +7,7 @@
 | 用途 | 链接 |
 | --- | --- |
 | 国内站登录 | `https://api.yoyochatai.com` |
-| 备用入口 | `https://api.yoyochatai.com` |
-| Codex&GPTimage2 套餐 | `https://9.plus/shop/yoyoapi` |
-| 备用店铺链接 | `https://9.plus/shop/yoyoapi` |
-| 配置中转 API | `https://9.plus/shop/yoyoapi` |
+| 充值/订阅相关入口 | `https://9.plus/shop/yoyoapi` |
 | cc-switch 下载 | `https://github.com/farion1231/cc-switch/releases/` |
 | 完整文档 | `https://github.com/sasakihuang/codex` |
 

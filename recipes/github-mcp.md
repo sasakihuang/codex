@@ -66,4 +66,4 @@
 
 ## 下一步
 
-CI 失败自动修复看 github-actions-ci.md。
+CI 失败自动修复看 [github-actions-ci.md](github-actions-ci.md)。

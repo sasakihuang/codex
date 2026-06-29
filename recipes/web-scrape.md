@@ -66,4 +66,4 @@
 
 ## 下一步
 
-要定时巡检服务器看 server-patrol.md。
+要定时巡检服务器看 [server-patrol.md](server-patrol.md)。

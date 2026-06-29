@@ -66,4 +66,4 @@
 
 ## 下一步
 
-要做视频版可看 animation-video.md。
+要做视频版可看 [animation-video.md](animation-video.md)。

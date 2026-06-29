@@ -73,10 +73,6 @@ if (!apiKey) {
 保留链接：
 
 - `https://api.yoyochatai.com`
-- `https://api.yoyochatai.com`
-- `https://9.plus/shop/yoyoapi`
-- `https://9.plus/shop/yoyoapi`
-- `https://9.plus/shop/yoyoapi`
 - `https://9.plus/shop/yoyoapi`
 
 使用第三方中转时要注意：

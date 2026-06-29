@@ -66,4 +66,4 @@
 
 ## 下一步
 
-要把报告变 PPT 看 ppt-skill.md。
+要把报告变 PPT 看 [ppt-skill.md](ppt-skill.md)。

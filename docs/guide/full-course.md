@@ -90,11 +90,7 @@ Codex 有多个入口。第一天不要全都装，先选一个跑通。
 | 用途 | 链接 |
 | --- | --- |
 | 国内站登录 | `https://api.yoyochatai.com` |
-| 备用入口 | `https://api.yoyochatai.com` |
-| Codex&GPTimage2 套餐 | `https://9.plus/shop/yoyoapi` |
-| 配置中转 API | `https://9.plus/shop/yoyoapi` |
 | 充值/订阅相关入口 | `https://9.plus/shop/yoyoapi` |
-| 备用店铺链接 | `https://9.plus/shop/yoyoapi` |
 | 完整文档 | `https://github.com/sasakihuang/codex` |
 
 安全边界也要讲清楚：第三方中转不是 OpenAI 官方订阅。不要把中转 API Key 写进仓库，不要发到聊天里，不要截图暴露。

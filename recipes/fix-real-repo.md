@@ -66,4 +66,4 @@
 
 ## 下一步
 
-如果失败来自 CI，看 github-actions-ci.md。
+如果失败来自 CI，看 [github-actions-ci.md](github-actions-ci.md)。

@@ -66,4 +66,4 @@
 
 ## 下一步
 
-要把结果做图表，看 data-viz.md。
+要把结果做图表，看 [data-viz.md](data-viz.md)。
