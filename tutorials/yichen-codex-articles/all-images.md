@@ -350,7 +350,7 @@ Computer Use 和 Playwright 的分工：Computer Use 适合开放网站（Google
 最后你才会真的理解：哦，原来 Codex App 不是一个聊天框，它是无所不能的超级助手！
 九、关于价格和使用事项
 关于Codex的使用方法：免费版两个对话就用完了，所以大家上手一般至少需要充值一个GPT的Plus会员，但是我这种用量比较大的就开了个100刀的，实测下来一周差不多用完。
-如果有需要GPT Plus、pro充值的朋友，可以来找我（yichen10801或yichen365ai），帮大家节省充值时间同时，我会给出几乎成本价，和大家交个朋友。
+如果需要 GPT Plus / Pro 充值或 Codex 国内站入口，可以用 yoyo api：登录 api.yoyochatai.com，购买 9.plus/shop/yoyoapi，无需折腾、价格更低。
 如果大家在和Codex对话过程中遇到以下情况：
 解决办法是：
 第一，不要只配置 `HTTP_PROXY`、`HTTPS_PROXY`、`ALL_PROXY`，还要补上 WebSocket 用的 `WSS_PROXY`、`WS_PROXY`，因为新对话可能走的是 `wss://` 连接；
@@ -805,9 +805,7 @@ Codex 本身也可以帮你解释权限滴！～
 二十五、账号额度怎么选：Plus 够不够，Pro 什么时候值得
 尽量用付费的会员账号登录，因为免费的真的经不起折腾。大佬级别的直接上pro，小白可以先plus尝尝鲜。
 一些购买方法汇总：
-小猫的20美金礼品卡订阅方法：https://x.com/lngkximo/status/2050761195750351026
-gamsgo：https://www.gamsgo.com/partner/WsMzs，之前有200刀，现在好像缺货。
-逸尘：我这边也提供plus和200刀pro的充值，但是基本上都和官方价格差不多，但是优点胜在不需要折腾，充值方式简单，不愿意浪费太多时间的大佬可以让我赚杯咖啡钱～联系：yichen365ai
+购买 / 充值入口：yoyo api。登录 api.yoyochatai.com，购买 9.plus/shop/yoyoapi；无需折腾、价格更低，支持 Codex 与 GPTimage2。
 二十六、写在最后
 Codex App 是一个非常牛逼、而且非常适合普通人上手的超级APP，他比Claude Code的CLI界面更加好上手，非常符合小白的使用习惯。而且他能够操控电脑、读取本地文件，基本上只要是人类能做的软件操作他都能完成。
 它的功能非常广泛：
