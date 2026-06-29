@@ -2,7 +2,6 @@
 
 本站实战案例在创作过程中参考了以下创作者的视频、文章和开源项目。感谢他们的无私分享，让这个知识库得以建立。
 
-> 所有案例截图均为作者本人实际操作所得，文字内容在参考基础上重新整理与二次创作。如有侵权，请联系删除。
 
 ---
 
@@ -65,9 +64,9 @@
 
 如果你也发现了值得推荐的 Codex 使用案例、Skill 或 MCP 工具，欢迎通过共建渠道提交。
 
-## 上游许可
+## 开源许可
 
-本案例库的主案例内容迁移自 [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) 的 `docs/recipes/`，上游项目采用 MIT License。许可证全文已保存在 [third_party_licenses/CodexGuide-MIT.txt](../third_party_licenses/CodexGuide-MIT.txt)。
+本项目部分案例参考了开源项目 [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide)（MIT License）。许可证全文见 [third_party_licenses/CodexGuide-MIT.txt](../third_party_licenses/CodexGuide-MIT.txt)。
 
 ## 站点入口
 

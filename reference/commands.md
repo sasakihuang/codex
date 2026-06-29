@@ -128,7 +128,7 @@ test -f docs/guide/full-course.md && echo OK
 for f in index.html docs/index.html recipes/index.html reference/index.html reader.html reader.js; do test -f "$f" && echo "OK $f"; done
 ```
 
-检查原有中转和购买链接是否还在：
+检查中转和购买链接是否完整：
 
 ```bash
 for s in \
@@ -149,7 +149,7 @@ done
 保留链接：
 
 ```text
-请保留所有原有国内站、备用网址、购买、中转 API、飞书教程链接，只改教程内容和导航。
+保留页面中已有的所有链接，只调整内容和导航。
 ```
 
 提交前检查：

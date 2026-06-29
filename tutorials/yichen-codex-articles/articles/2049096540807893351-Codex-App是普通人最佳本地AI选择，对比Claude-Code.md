@@ -2,7 +2,6 @@
 
 - 分类：二、Codex App 新手入门
 - 类型：Chrome 全文爬取
-- 来源：[https://x.com/gengdaJ/status/2049096540807893351](https://x.com/gengdaJ/status/2049096540807893351)
 - 抓取时间：2026-06-28T09:19:26.385Z
 
 ## 正文
@@ -17,7 +16,6 @@ Codex App+Chatgpt5.5绝对是当下最适合普通人的本地AI选择，Claude 
 所以，我目前已经想不到任何继续使用Claude Code的理由了。。。
 引用
 逸尘
-@gengdaJ
 ·
 2月10日
 普通人想要把整个电脑用 AI 进行武装的最简无脑步骤：
